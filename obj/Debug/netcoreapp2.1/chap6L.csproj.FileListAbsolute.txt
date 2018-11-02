@@ -1,0 +1,11 @@
+/home/chris/Documents/School related/fall 2018/C#Programming/code/chap6L/obj/Debug/netcoreapp2.1/chap6L.csprojAssemblyReference.cache
+/home/chris/Documents/School related/fall 2018/C#Programming/code/chap6L/obj/Debug/netcoreapp2.1/chap6L.csproj.CoreCompileInputs.cache
+/home/chris/Documents/School related/fall 2018/C#Programming/code/chap6L/obj/Debug/netcoreapp2.1/chap6L.AssemblyInfoInputs.cache
+/home/chris/Documents/School related/fall 2018/C#Programming/code/chap6L/obj/Debug/netcoreapp2.1/chap6L.AssemblyInfo.cs
+/home/chris/Documents/School related/fall 2018/C#Programming/code/chap6L/bin/Debug/netcoreapp2.1/chap6L.deps.json
+/home/chris/Documents/School related/fall 2018/C#Programming/code/chap6L/bin/Debug/netcoreapp2.1/chap6L.runtimeconfig.json
+/home/chris/Documents/School related/fall 2018/C#Programming/code/chap6L/bin/Debug/netcoreapp2.1/chap6L.runtimeconfig.dev.json
+/home/chris/Documents/School related/fall 2018/C#Programming/code/chap6L/bin/Debug/netcoreapp2.1/chap6L.dll
+/home/chris/Documents/School related/fall 2018/C#Programming/code/chap6L/bin/Debug/netcoreapp2.1/chap6L.pdb
+/home/chris/Documents/School related/fall 2018/C#Programming/code/chap6L/obj/Debug/netcoreapp2.1/chap6L.dll
+/home/chris/Documents/School related/fall 2018/C#Programming/code/chap6L/obj/Debug/netcoreapp2.1/chap6L.pdb
